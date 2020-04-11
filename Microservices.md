@@ -11,4 +11,9 @@ Microservices or Microservice Architecture is an approach to develop application
 
 An application architecture is a roadmap to design and build your application so you follow best practices and build an application that is well structured.
 
+Some major types of application architectures:
 
+1.  Monolith and N-tier (tightly couples)
+2.  Microservices (Decoupled )
+3.  Event driven and Service Oriented (Loosely coupled)
+    
