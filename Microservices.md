@@ -1,6 +1,5 @@
-<div align="center" >
-<font size="10"><strong>MICROSERVICES</strong></font>
-</div>
+
+# MICROSERVICES
 
 ## Introduction
 
